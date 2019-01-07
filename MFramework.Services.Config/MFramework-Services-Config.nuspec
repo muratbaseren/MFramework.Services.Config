@@ -6,8 +6,8 @@
     <authors>Kadir Murat Başeren</authors>
     <title>MFramework.Services.Config</title>
     <owners>Kadir Murat Başeren</owners>
-    <projectUrl>https://github.com/muratbaseren/nuget-mvc-toastr-service</projectUrl>
-    <iconUrl>https://github.com/muratbaseren/nuget-mvc-toastr-service/blob/master/assets/toastr-icon.png?raw=true</iconUrl>
+    <projectUrl>https://github.com/muratbaseren/MFramework.Services.Config</projectUrl>
+    <iconUrl>https://github.com/muratbaseren/MFramework.Services.Config/blob/master/assets/mframework-services-config-icon.png?raw=true</iconUrl>
     <description>Configuration service for .NET Apps.</description>
     <summary>Configuration service for .NET Apps.</summary>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
